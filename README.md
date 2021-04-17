@@ -1,3 +1,15 @@
+Mongo, Express, React, Node Template
+
+Doug Jones
+
+npm i
+
+//server
+nodemon server
+
+//react
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
